@@ -16,10 +16,6 @@ sites:
     check: "tcp-ping"
     url: node2.sethforprivacy.com
     port: 18089
-  - name: node2.sethforprivacy.com:18089
-    check: "tcp-ping"
-    url: node2.sethforprivacy.com
-    port: 18089
   - name: xmr.fail:18081
     check: "tcp-ping"
     url: xmr.fail
@@ -32,6 +28,10 @@ sites:
     check: "tcp-ping"
     url: node.community.rino.io
     port: 18081
+  - name: node.moneroworld.com:18089
+    check: "tcp-ping"
+    url: node.moneroworld.com
+    port: 18089
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -39,7 +39,7 @@ status-website:
   cname: nodes.monero.com
   # baseUrl: /upptime-cakewallet
   logoUrl: https://i.imgur.com/WxsaoFP.png
-  favicon: https://i.imgur.com/WxsaoFP.png
+  favicon: https://i.imgur.com/b4SMfd6.png
   name: Monero.com Nodes
   introTitle: "Monero Nodes Status by Cake Wallet"
   introMessage: Monero node status is updated approximately every 5-30 minutes. Unless specified, these nodes are run by other parties who may log your traffic. Use your own node if possible for maximum privacy. For the official website of The Monero Project, go to getmonero.org.
