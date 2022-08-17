@@ -16,19 +16,19 @@ sites:
     check: "tcp-ping"
     url: node2.sethforprivacy.com
     port: 18089
-    - name: node2.sethforprivacy.com:18089
+  - name: node2.sethforprivacy.com:18089
     check: "tcp-ping"
     url: node2.sethforprivacy.com
     port: 18089
-    - name: xmr.fail:18081
+  - name: xmr.fail:18081
     check: "tcp-ping"
     url: xmr.fail
     port: 18081
-    - name: node.supportxmr.com:18081
+  - name: node.supportxmr.com:18081
     check: "tcp-ping"
     url: node.supportxmr.com
     port: 18081
-    - name: node.community.rino.io:18081
+  - name: node.community.rino.io:18081
     check: "tcp-ping"
     url: node.community.rino.io
     port: 18081
