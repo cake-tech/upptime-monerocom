@@ -1,47 +1,52 @@
 # Change these first
 owner: cake-tech # Your GitHub organization or username, where this repository lives
-repo: upptime-cakewallet # The name of this repository
+repo: upptime-monerocom # The name of this repository
 
 sites:
-  - name: cakewallet.com
-    url: https://cakewallet.com
-    icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
-  - name: monero.com
-    url: https://monero.com
-    icon: https://i.imgur.com/WxsaoFP.png
   - name: xmr-node.cakewallet.com:18081
     check: "tcp-ping"
     url: xmr-node.cakewallet.com
     port: 18081
-    icon: https://i.imgur.com/Pr74gsI.png
-  - name: electrum.cakewallet.com:50002
+    icon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
+  - name: node.sethforprivacy.com:18089
     check: "tcp-ping"
-    url: electrum.cakewallet.com
-    port: 50002
-    icon: https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg
-  - name: ltc-electrum.cakewallet.com:50002
+    url: node.sethforprivacy.com
+    port: 18089
+  - name: node2.sethforprivacy.com:18089
     check: "tcp-ping"
-    url: ltc-electrum.cakewallet.com
-    port: 50002
-    icon: https://upload.wikimedia.org/wikipedia/commons/f/f8/LTC-400.png
-
-assignees:
-  - tannerdsilva
+    url: node2.sethforprivacy.com
+    port: 18089
+    - name: node2.sethforprivacy.com:18089
+    check: "tcp-ping"
+    url: node2.sethforprivacy.com
+    port: 18089
+    - name: xmr.fail:18081
+    check: "tcp-ping"
+    url: xmr.fail
+    port: 18081
+    - name: node.supportxmr.com:18081
+    check: "tcp-ping"
+    url: node.supportxmr.com
+    port: 18081
+    - name: node.community.rino.io:18081
+    check: "tcp-ping"
+    url: node.community.rino.io
+    port: 18081
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.cakewallet.com
+  cname: nodes.monero.com
   # baseUrl: /upptime-cakewallet
-  logoUrl: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
-  favicon: https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png
-  name: Cake Wallet Status
-  introTitle: "Cake Wallet Service Status"
-  introMessage: Service status is updated approximately every 5-10 minutes.
+  logoUrl: https://i.imgur.com/WxsaoFP.png
+  favicon: https://i.imgur.com/WxsaoFP.png
+  name: Monero.com Nodes
+  introTitle: "Monero Nodes Status by Cake Wallet"
+  introMessage: Monero node status is updated approximately every 5-10 minutes. Unless specified, these nodes are run by other parties who may log your traffic. Use your own node if possible for maximum privacy. For the official website of The Monero Project, go to getmonero.org.
   theme: light
   navbar:
     - title: Twitter
-      href: https://twitter.com/cakewallet
+      href: https://twitter.com/MoneroCom
     - title: Email Support
       href: mailto:support@cakewallet.com
     - title: Telegram Support
