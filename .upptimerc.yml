@@ -42,7 +42,7 @@ status-website:
   favicon: https://i.imgur.com/b4SMfd6.png
   name: Monero.com Nodes
   introTitle: "Monero Nodes Status by Cake Wallet"
-  introMessage: Monero node status is updated approximately every 5-30 minutes. Unless specified, these nodes are run by other parties who may log your traffic. Use your own node if possible for maximum privacy. For the official website of The Monero Project, go to getmonero.org.
+  introMessage: Monero node status is updated approximately every 5-30 minutes. Charts are updated less frequently. Unless specified, these nodes are run by other parties who may log your traffic. Use your own node if possible for maximum privacy. For the official website of The Monero Project, go to getmonero.org.
   theme: light
   navbar:
     - title: Twitter
