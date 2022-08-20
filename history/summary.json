@@ -58,18 +58,20 @@
     "url": "xmr.fail",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xmr-fail-18081",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 132,
     "timeDay": 109,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-20": 1
+    }
   },
   {
     "name": "node.supportxmr.com:18081",
@@ -95,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "node-community-rino-io-18081",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "93.26%",
+    "uptimeDay": "81.35%",
+    "uptimeWeek": "93.26%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "93.26%",
     "time": 125,
     "timeDay": 101,
     "timeWeek": 125,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-08-20": 0
+      "2022-08-20": 269
     }
   },
   {
