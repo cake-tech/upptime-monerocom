@@ -94,9 +94,9 @@
     "url": "node.community.rino.io",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "node-community-rino-io-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 125,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-20": 0
+    }
   },
   {
     "name": "node.moneroworld.com:18089",
