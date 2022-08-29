@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "xmr-fail-18081",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "98.13%",
+    "uptimeDay": "82.85%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "98.13%",
+    "uptimeYear": "98.13%",
     "time": 204,
     "timeDay": 198,
     "timeWeek": 255,
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2022-08-29": 0,
+      "2022-08-29": 247,
       "2022-08-20": 74
     }
   },
@@ -98,11 +98,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "node-community-rino-io-18081",
     "status": "up",
-    "uptime": "92.09%",
+    "uptime": "92.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "92.09%",
+    "uptimeMonth": "92.20%",
+    "uptimeYear": "92.20%",
     "time": 142,
     "timeDay": 186,
     "timeWeek": 168,
@@ -118,7 +118,7 @@
     "url": "node.moneroworld.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "node-moneroworld-com-18089",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -129,6 +129,8 @@
     "timeWeek": 431,
     "timeMonth": 318,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   }
 ]
