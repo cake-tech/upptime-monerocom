@@ -12,13 +12,13 @@ sites:
     check: "tcp-ping"
     url: node.sethforprivacy.com
     port: 18089
-  - name: node2.sethforprivacy.com:18089
+  - name: nodes.hashvault.pro:18081
     check: "tcp-ping"
-    url: node2.sethforprivacy.com
-    port: 18089
-  - name: xmr.fail:18081
+    url: nodes.hashvault.pro
+    port: 18081
+  - name: node.c3pool.com:18081
     check: "tcp-ping"
-    url: xmr.fail
+    url: node.c3pool.com
     port: 18081
   - name: node.supportxmr.com:18081
     check: "tcp-ping"
