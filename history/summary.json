@@ -45,9 +45,9 @@
     "url": "nodes.hashvault.pro",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nodes-hashvault-pro-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 195,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-14": 0
+    }
   },
   {
     "name": "node.c3pool.com:18081",
@@ -100,11 +102,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-community-rino-io-18081",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.38%",
+    "uptimeYear": "98.40%",
     "time": 164,
     "timeDay": 216,
     "timeWeek": 173,
