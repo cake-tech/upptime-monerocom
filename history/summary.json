@@ -45,19 +45,19 @@
     "url": "nodes.hashvault.pro",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nodes-hashvault-pro-18081",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 223,
-    "timeDay": 180,
-    "timeWeek": 195,
+    "timeDay": 205,
+    "timeWeek": 199,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2022-10-14": 0
+      "2022-10-14": 28
     }
   },
   {
