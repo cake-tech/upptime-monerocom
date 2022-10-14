@@ -11,9 +11,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.92%",
     "time": 172,
-    "timeDay": 138,
-    "timeWeek": 115,
-    "timeMonth": 163,
+    "timeDay": 136,
+    "timeWeek": 106,
+    "timeMonth": 134,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2022-10-01": 67
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.44%",
-    "time": 135,
-    "timeDay": 80,
-    "timeWeek": 90,
-    "timeMonth": 111,
-    "timeYear": 135,
+    "time": 134,
+    "timeDay": 85,
+    "timeWeek": 95,
+    "timeMonth": 109,
+    "timeYear": 134,
     "dailyMinutesDown": {
       "2022-09-21": 420,
       "2022-09-20": 53
@@ -45,19 +45,19 @@
     "url": "nodes.hashvault.pro",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nodes-hashvault-pro-18081",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "91.85%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "92.20%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 204,
     "timeDay": 136,
-    "timeWeek": 164,
+    "timeWeek": 159,
     "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2022-10-14": 117
+      "2022-10-14": 112
     }
   },
   {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 248,
-    "timeDay": 163,
-    "timeWeek": 258,
-    "timeMonth": 248,
-    "timeYear": 248,
+    "time": 246,
+    "timeDay": 179,
+    "timeWeek": 252,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +90,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 161,
+    "timeDay": 145,
     "timeWeek": 121,
     "timeMonth": 132,
     "timeYear": 128,
@@ -108,8 +108,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.40%",
     "time": 164,
-    "timeDay": 216,
-    "timeWeek": 173,
+    "timeDay": 196,
+    "timeWeek": 175,
     "timeMonth": 168,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 0,
-    "timeWeek": 139,
-    "timeMonth": 189,
-    "timeYear": 221,
+    "time": 219,
+    "timeDay": 119,
+    "timeWeek": 135,
+    "timeMonth": 186,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   }
 ]
