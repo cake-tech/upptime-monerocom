@@ -12,7 +12,7 @@
     "uptimeYear": "99.93%",
     "time": 168,
     "timeDay": 0,
-    "timeWeek": 102,
+    "timeWeek": 108,
     "timeMonth": 129,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.47%",
     "time": 132,
     "timeDay": 0,
-    "timeWeek": 88,
+    "timeWeek": 87,
     "timeMonth": 102,
     "timeYear": 132,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.46%",
     "time": 209,
     "timeDay": 0,
-    "timeWeek": 184,
+    "timeWeek": 188,
     "timeMonth": 209,
     "timeYear": 209,
     "dailyMinutesDown": {
@@ -74,7 +74,7 @@
     "uptimeYear": "100.00%",
     "time": 248,
     "timeDay": 0,
-    "timeWeek": 249,
+    "timeWeek": 233,
     "timeMonth": 248,
     "timeYear": 248,
     "dailyMinutesDown": {}
@@ -92,7 +92,7 @@
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 0,
-    "timeWeek": 133,
+    "timeWeek": 137,
     "timeMonth": 133,
     "timeYear": 128,
     "dailyMinutesDown": {}
@@ -110,7 +110,7 @@
     "uptimeYear": "98.51%",
     "time": 164,
     "timeDay": 0,
-    "timeWeek": 163,
+    "timeWeek": 170,
     "timeMonth": 166,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -123,19 +123,19 @@
     "url": "node.moneroworld.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-moneroworld-com-18089",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 213,
     "timeDay": 0,
-    "timeWeek": 131,
+    "timeWeek": 125,
     "timeMonth": 187,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2022-10-18": 0
+      "2022-10-18": 9
     }
   }
 ]
