@@ -67,9 +67,9 @@
     "url": "node.c3pool.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-c3pool-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.54%",
@@ -79,6 +79,7 @@
     "timeMonth": 282,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2022-11-28": 0,
       "2022-11-01": 448
     }
   },
