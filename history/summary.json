@@ -79,10 +79,10 @@
     "url": "node.c3pool.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-c3pool-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 258,
@@ -91,6 +91,7 @@
     "timeMonth": 236,
     "timeYear": 258,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-11-30": 292,
       "2022-11-01": 448
     }
@@ -112,7 +113,7 @@
     "timeMonth": 0,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-01-25": 504,
+      "2023-01-25": 514,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
