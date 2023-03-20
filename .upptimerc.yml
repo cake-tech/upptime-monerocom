@@ -20,10 +20,6 @@ sites:
     check: "tcp-ping"
     url: node.c3pool.com
     port: 18081
-  - name: node.supportxmr.com:18081
-    check: "tcp-ping"
-    url: node.supportxmr.com
-    port: 18081
   - name: node.community.rino.io:18081
     check: "tcp-ping"
     url: node.community.rino.io
