@@ -42,6 +42,7 @@ status-website:
   logoUrl: https://i.imgur.com/WxsaoFP.png
   favicon: https://i.imgur.com/b4SMfd6.png
   name: Monero.com Nodes
+  customHeadHtml: "<meta name='Monero.com Nodes' content='Monero Remote Nodes Status by Cake Wallet'>"
   introTitle: "Monero Remote Nodes Status by Cake Wallet"
   introMessage: Monero remote node status is updated approximately every 5-30 minutes. Charts are updated less frequently. Unless specified, these remote nodes are run by other parties who may log your traffic. Use your own node if possible for maximum privacy. For the official website of The Monero Project, go to getmonero.org.
   theme: light
