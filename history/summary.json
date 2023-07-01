@@ -13,7 +13,7 @@
     "time": 114,
     "timeDay": 203,
     "timeWeek": 78,
-    "timeMonth": 115,
+    "timeMonth": 117,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2022-10-01": 67
@@ -33,7 +33,7 @@
     "time": 31,
     "timeDay": 64,
     "timeWeek": 26,
-    "timeMonth": 40,
+    "timeMonth": 41,
     "timeYear": 31,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 97,
     "timeDay": 113,
     "timeWeek": 77,
-    "timeMonth": 97,
+    "timeMonth": 98,
     "timeYear": 97,
     "dailyMinutesDown": {
       "2023-05-24": 25,
@@ -89,17 +89,16 @@
     "slug": "nodes-hashvault-pro-18081",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 193,
     "timeDay": 182,
     "timeWeek": 179,
-    "timeMonth": 213,
+    "timeMonth": 215,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2023-06-30": 5,
       "2023-03-18": 23,
       "2023-01-30": 25,
       "2022-11-11": 65,
@@ -121,7 +120,7 @@
     "time": 258,
     "timeDay": 162,
     "timeWeek": 246,
-    "timeMonth": 247,
+    "timeMonth": 246,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2023-05-10": 72,
@@ -168,7 +167,7 @@
     "time": 232,
     "timeDay": 106,
     "timeWeek": 240,
-    "timeMonth": 327,
+    "timeMonth": 308,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2023-03-16": 32,
