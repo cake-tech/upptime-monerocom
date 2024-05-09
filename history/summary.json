@@ -55,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-sethforprivacy-com-18089",
     "status": "up",
-    "uptime": "77.30%",
+    "uptime": "77.31%",
     "uptimeDay": "99.55%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.64%",
@@ -247,18 +247,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-c3pool-com-18081",
     "status": "down",
-    "uptime": "86.03%",
+    "uptime": "86.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.45%",
+    "uptimeYear": "77.44%",
     "time": 249,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-05-08": 1408,
+      "2024-05-09": 16,
+      "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -353,8 +354,7 @@
       "2023-08-07": 16,
       "2023-08-01": 508,
       "2023-07-21": 335,
-      "2023-07-16": 257,
-      "2023-05-10": 72
+      "2023-07-16": 257
     }
   },
   {
