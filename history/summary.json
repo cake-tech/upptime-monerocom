@@ -216,11 +216,11 @@
     "url": "nodes.hashvault.pro",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nodes-hashvault-pro-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
     "time": 168,
     "timeDay": 116,
@@ -228,7 +228,7 @@
     "timeMonth": 118,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-07-15": 6,
+      "2024-07-15": 7,
       "2024-07-02": 71
     }
   },
@@ -249,7 +249,7 @@
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-07-15": 1069,
+      "2024-07-15": 1077,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
       "2024-07-12": 1440,
