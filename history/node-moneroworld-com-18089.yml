@@ -1,7 +1,7 @@
 url: node.moneroworld.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-19T09:42:43.864Z
+status: up
+code: 200
+responseTime: 22
+lastUpdated: 2024-07-19T09:49:42.620Z
 startTime: 2022-08-17T19:27:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
