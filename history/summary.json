@@ -4,11 +4,11 @@
     "url": "xmr-node.cakewallet.com",
     "icon": "https://cakewallet.com/assets/images/logo/Cake%20Wallet%20Logo%202021_App%20Icon.png",
     "slug": "xmr-node-cakewallet-com-18081",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "75.23%",
-    "uptimeWeek": "88.92%",
-    "uptimeMonth": "97.45%",
+    "uptimeDay": "75.14%",
+    "uptimeWeek": "88.98%",
+    "uptimeMonth": "97.46%",
     "uptimeYear": "99.79%",
     "time": 49,
     "timeDay": 26,
@@ -16,11 +16,10 @@
     "timeMonth": 30,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2024-07-24": 137,
+      "2024-07-24": 138,
       "2024-07-23": 392,
       "2024-07-22": 314,
-      "2024-07-21": 272,
-      "2024-07-20": 7
+      "2024-07-21": 272
     }
   },
   {
@@ -251,7 +250,7 @@
     "timeMonth": 0,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-07-24": 584,
+      "2024-07-24": 600,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
